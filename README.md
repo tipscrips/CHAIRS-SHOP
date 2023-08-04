@@ -6,3 +6,4 @@ I want to add:
 - Highlight main section with background-color;
 - Cta section;
 - Rework footer section
+- Rework the reviews section. Add the ability to leave reviews (carousel)
