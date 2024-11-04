@@ -15,7 +15,6 @@ Landing site without interactivity
    ```bash
    git clone https://github.com/tipscrips/CHAIRS-SHOP.git
 
-
 # PLANS
 
 I want to add:
