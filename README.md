@@ -12,7 +12,7 @@ Landing site without interactivity
 
 ## Running a project locally
 1. Clone the repository:
-   main
+   ```bash
    git clone https://github.com/tipscrips/CHAIRS-SHOP.git
 
 
