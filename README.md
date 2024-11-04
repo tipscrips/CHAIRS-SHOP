@@ -1,4 +1,22 @@
-# THIS IS MY LESSON MINI-PROJECT
+# Small entry task
+
+## About
+Landing site without interactivity
+
+## Stack
+- HTML
+- CSS
+
+## Demonstration
+[View demo](https://lischairshop.netlify.app/)
+
+## Running a project locally
+1. Clone the repository:
+   main
+   git clone https://github.com/tipscrips/CHAIRS-SHOP.git
+
+
+# PLANS
 
 I want to add:
 
